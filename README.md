@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.com/Ishe27-ops/ishe1package.svg?branch=master)](https://travis-ci.com/Ishe27-ops/ishe1package)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/Ishe27-ops/ishe1package?branch=master&svg=true)](https://ci.appveyor.com/project/Ishe27-ops/ishe1package)
 <!-- badges: end -->
 
 The goal of ishe1package is to provide functionality for my package.
